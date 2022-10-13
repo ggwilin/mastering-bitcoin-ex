@@ -1,0 +1,7 @@
+# About
+
+Bitcoin is a collection of concepts and technologies that form the basis of a digital money ecosystem. Units of currency called bitcoin are used to store and transmit value among participants in the Bitcoin network. Bitcoin users communicate with each other using the Bitcoin protocol primarily via the internet, although other transport networks can also be used. The Bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
+
+Bitcoin is a distributed, peer-to-peer system. As such, there is no "central" server or point of control. Bitcoins, i.e. units of bitcoin, are created through a process called "mining," which involves competing to find solutions to a mathematical problem while processing Bitcoin transactions. Any participant in the Bitcoin network (i.e., anyone using a device running the full Bitcoin protocol stack) may operate as a miner, using their computer's processing power to verify and record transactions. Every 10 minutes, on average, a Bitcoin miner can validate the transactions of the past 10 minutes and is rewarded with brand new bitcoin. Essentially, Bitcoin mining decentralizes the currency-issuance and clearing functions of a central bank and replaces the need for any central bank.
+
+The home page for Mastering Bitcoin Book is [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)

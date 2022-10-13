@@ -1,0 +1,32 @@
+{
+    "docs": [
+      {
+        "uuid": "02902735-7a11-4076-9488-0f8f7a5b0868",
+        "slug": "installation",
+        "path": "docs/INSTALLATION.md",
+        "title": "Installing Bitcoin Core",
+        "blurb": "Learn how to install Bitcoin Core to use it and learn"
+      },
+      {
+        "uuid": "e1daf761-b506-43c5-a94f-6392a4e6c174",
+        "slug": "learning",
+        "path": "docs/LEARNING.md",
+        "title": "How to learn Bitcoin",
+        "blurb": "An overview of how to get started with Bitcoin"
+      },
+      {
+        "uuid": "3f48b697-3421-44fe-a406-8d6c868dbeeb",
+        "slug": "tests",
+        "path": "docs/TESTS.md",
+        "title": "Testing on the Mastering Bitcoin track",
+        "blurb": "Learn how to test your Mastering Bitcoin exercises"
+      },
+      {
+        "uuid": "6f7b212a-6e9f-46e4-85d8-dfc0e25beb5b",
+        "slug": "resources",
+        "path": "docs/RESOURCES.md",
+        "title": "Useful Bitcoin resources",
+        "blurb": "A collection of useful resources to help you master Bitcoin"
+      }
+    ]
+  }

@@ -1,0 +1,67 @@
+{
+    "language": "MBB",
+    "slug": "masteringbitcoinbook",
+    "active": false,
+    "status": {
+        "concept_exercises": false,
+        "test_runner": false,
+        "representer": false,
+        "analyzer": false
+    },
+    "blurb": "Mastering Bitcoin is an essential book for everyone that wants to understand bitcoin basics, its cool and open for everyone",
+    "version": 3,
+    "online_editor": {
+        "indent_style": "tab",
+        "indent_size": 4,
+        "highlightjs_language": "TODO: specify highlightjs language"
+    },
+    "test_runner": {
+        "average_run_time": 3
+    },
+    "files": {
+        "solution": [],
+        "test": [],
+        "example": [],
+        "exemplar": []
+    },
+    "exercises": {
+        "concept": [],
+        "practice": []
+    },
+    "concepts": [],
+    "key_features": [
+        {
+            "title": "Scarce",
+            "content": "21M",
+            "icon": "safe"
+        },
+        {
+            "title": "Decentralized",
+            "content": "....",
+            "icon": "safe"
+        },
+        {
+            "title": "Neutral",
+            "content": "....",
+            "icon": "safe"
+        },
+        {
+            "title": "Transparent",
+            "content": "21M",
+            "icon": "safe"
+        },
+        {
+            "title": "Inclusive",
+            "content": "....",
+            "icon": "safe"
+        },
+        {
+            "title": "Open source",
+            "content": "....",
+            "icon": "safe"
+        }
+    ],
+    "tags": [
+        "used_for/financial_systems"
+    ]
+}
