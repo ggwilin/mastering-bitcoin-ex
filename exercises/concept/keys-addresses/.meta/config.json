@@ -1,0 +1,10 @@
+{
+    "blurb": "Dive deeper into Key address functions",
+    "authors": ["TBD"],
+    "contributors": ["TBD"],
+    "files": {
+      "solution": ["key_to_address.py"],
+      "test": ["key_to_address_test.py"],
+      "exemplar": [".meta/exemplar.py"]
+    }
+  }

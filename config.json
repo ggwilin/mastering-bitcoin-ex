@@ -25,10 +25,41 @@
         "exemplar": []
     },
     "exercises": {
-        "concept": [],
-        "practice": []
+        "concept": [
+            {
+              "name": "Keys and addresses",
+              "slug": "keys-addresses",
+              "uuid": "95609b3d-e22b-4590-8aa7-66bc21dfaa6e",
+              "concepts": [
+                "keys-addresses"
+              ],
+              "prerequisites": [],
+              "status": "beta"
+            }
+        ],
+        "practice": [      
+            {
+                "uuid": "19957346-dedf-441e-85ea-656cac0d96d8",
+                "slug": "hello-world",
+                "name": "Hello World",
+                "practices": ["basics-bitcoin"],
+                "prerequisites": [],
+                "difficulty": 1
+            }
+        ]
     },
-    "concepts": [],
+    "concepts": [
+        {
+            "uuid": "82eaf8af-9d07-4556-a32b-4bb2f39ec981",
+            "slug": "basics-bitcoin",
+            "name": "¿What is Bitcoin?"
+        },
+        {
+            "uuid": "47929f97-c8e6-4089-ad91-cef15741852e",
+            "slug": "keys-addresses",
+            "name": "Keys, Addresses"
+        }
+    ],
     "key_features": [
         {
             "title": "Scarce",
