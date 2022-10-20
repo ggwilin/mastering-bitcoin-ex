@@ -1,10 +1,10 @@
 {
     "language": "MBB",
     "slug": "masteringbitcoinbook",
-    "active": false,
+    "active": true,
     "status": {
-        "concept_exercises": false,
-        "test_runner": false,
+        "concept_exercises": true,
+        "test_runner": true,
         "representer": false,
         "analyzer": false
     },
